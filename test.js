@@ -1,3 +1,3 @@
 (function(window){
-  console.log("test")
+  console.log("good")
 })(this);
