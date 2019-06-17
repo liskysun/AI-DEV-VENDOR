@@ -1,3 +1,3 @@
 (function(window){
-  console.log("ai")
+  console.log("ai - dev")
 })(this);
